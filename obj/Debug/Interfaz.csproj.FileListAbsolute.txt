@@ -1,0 +1,96 @@
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\Interfaz\bin\Debug\Interfaz.exe.config
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\Interfaz\bin\Debug\Interfaz.exe
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\Interfaz\bin\Debug\Interfaz.pdb
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\Interfaz\bin\Debug\FSharp.Core.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\Interfaz\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\Interfaz\bin\Debug\ScrapySharp.Core.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\Interfaz\bin\Debug\ScrapySharp.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\Interfaz\bin\Debug\FSharp.Core.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\Interfaz\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\Interfaz\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\Interfaz\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\Interfaz\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\Interfaz\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\Interfaz\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\Interfaz\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\Interfaz\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\Interfaz\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\Interfaz\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\Interfaz\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\Interfaz\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\Interfaz\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\Interfaz\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\Interfaz\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\Interfaz\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\Interfaz\obj\Debug\Interfaz.csprojAssemblyReference.cache
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\Interfaz\obj\Debug\Interfaz.Form1.resources
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\Interfaz\obj\Debug\Interfaz.Properties.Resources.resources
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\Interfaz\obj\Debug\Interfaz.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\Interfaz\obj\Debug\Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\Interfaz\obj\Debug\Interfaz.csproj.CopyComplete
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\Interfaz\obj\Debug\Interfaz.exe
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\Interfaz\obj\Debug\Interfaz.pdb
+C:\Users\50684\Downloads\Arqui\Interfaz\bin\Debug\Interfaz.exe.config
+C:\Users\50684\Downloads\Arqui\Interfaz\bin\Debug\Interfaz.exe
+C:\Users\50684\Downloads\Arqui\Interfaz\bin\Debug\Interfaz.pdb
+C:\Users\50684\Downloads\Arqui\Interfaz\bin\Debug\FSharp.Core.dll
+C:\Users\50684\Downloads\Arqui\Interfaz\bin\Debug\HtmlAgilityPack.dll
+C:\Users\50684\Downloads\Arqui\Interfaz\bin\Debug\ScrapySharp.Core.dll
+C:\Users\50684\Downloads\Arqui\Interfaz\bin\Debug\ScrapySharp.dll
+C:\Users\50684\Downloads\Arqui\Interfaz\bin\Debug\FSharp.Core.xml
+C:\Users\50684\Downloads\Arqui\Interfaz\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\50684\Downloads\Arqui\Interfaz\bin\Debug\HtmlAgilityPack.xml
+C:\Users\50684\Downloads\Arqui\Interfaz\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\50684\Downloads\Arqui\Interfaz\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\50684\Downloads\Arqui\Interfaz\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\50684\Downloads\Arqui\Interfaz\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\50684\Downloads\Arqui\Interfaz\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\50684\Downloads\Arqui\Interfaz\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\50684\Downloads\Arqui\Interfaz\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\50684\Downloads\Arqui\Interfaz\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\50684\Downloads\Arqui\Interfaz\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\50684\Downloads\Arqui\Interfaz\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\50684\Downloads\Arqui\Interfaz\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\50684\Downloads\Arqui\Interfaz\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\50684\Downloads\Arqui\Interfaz\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\50684\Downloads\Arqui\Interfaz\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\50684\Downloads\Arqui\Interfaz\obj\Debug\Interfaz.csprojAssemblyReference.cache
+C:\Users\50684\Downloads\Arqui\Interfaz\obj\Debug\Interfaz.Form1.resources
+C:\Users\50684\Downloads\Arqui\Interfaz\obj\Debug\Interfaz.Properties.Resources.resources
+C:\Users\50684\Downloads\Arqui\Interfaz\obj\Debug\Interfaz.csproj.GenerateResource.cache
+C:\Users\50684\Downloads\Arqui\Interfaz\obj\Debug\Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\50684\Downloads\Arqui\Interfaz\obj\Debug\Interfaz.csproj.CopyComplete
+C:\Users\50684\Downloads\Arqui\Interfaz\obj\Debug\Interfaz.exe
+C:\Users\50684\Downloads\Arqui\Interfaz\obj\Debug\Interfaz.pdb
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\copiaProgra\Interfaz\bin\Debug\Interfaz.exe.config
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\copiaProgra\Interfaz\bin\Debug\Interfaz.exe
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\copiaProgra\Interfaz\bin\Debug\Interfaz.pdb
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\copiaProgra\Interfaz\bin\Debug\FSharp.Core.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\copiaProgra\Interfaz\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\copiaProgra\Interfaz\bin\Debug\ScrapySharp.Core.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\copiaProgra\Interfaz\bin\Debug\ScrapySharp.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\copiaProgra\Interfaz\bin\Debug\FSharp.Core.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\copiaProgra\Interfaz\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\copiaProgra\Interfaz\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\copiaProgra\Interfaz\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\copiaProgra\Interfaz\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\copiaProgra\Interfaz\bin\Debug\en\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\copiaProgra\Interfaz\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\copiaProgra\Interfaz\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\copiaProgra\Interfaz\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\copiaProgra\Interfaz\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\copiaProgra\Interfaz\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\copiaProgra\Interfaz\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\copiaProgra\Interfaz\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\copiaProgra\Interfaz\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\copiaProgra\Interfaz\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\copiaProgra\Interfaz\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\copiaProgra\Interfaz\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\copiaProgra\Interfaz\obj\Debug\Interfaz.csprojAssemblyReference.cache
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\copiaProgra\Interfaz\obj\Debug\Interfaz.Form1.resources
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\copiaProgra\Interfaz\obj\Debug\Interfaz.Properties.Resources.resources
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\copiaProgra\Interfaz\obj\Debug\Interfaz.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\copiaProgra\Interfaz\obj\Debug\Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\copiaProgra\Interfaz\obj\Debug\Interfaz.csproj.CopyComplete
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\copiaProgra\Interfaz\obj\Debug\Interfaz.exe
+C:\Users\Usuario\OneDrive - Estudiantes ITCR\I semestre 2020 Cursos\Arquitectura de Computadores\0. Proyecto Paralelismo\copiaProgra\Interfaz\obj\Debug\Interfaz.pdb
